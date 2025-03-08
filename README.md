@@ -1,4 +1,2 @@
 # Quizz-frontend
-Projeto de quizz
-
-Desenvolvido para avaliação em entrevista
+Frontend desenvolvido para avaliação em entrevista
